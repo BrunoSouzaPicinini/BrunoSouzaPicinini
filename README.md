@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kafka, Design Patterns and getting deeper into java**
 
-- 🤝 I’m looking for help with **Java advanced skills**
+- 🤝 I’m looking for help with **Java advanced skills and IT Career**
 
 - 💬 Ask me about **Java**
 
@@ -29,9 +29,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brunosouzapicinini"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brunosouzapicinini" /></a></p><br><br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunosouzapicinini&show_icons=true&locale=en&layout=compact" alt="brunosouzapicinini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunosouzapicinini&show_icons=true&locale=en" alt="brunosouzapicinini" /></p>
-
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunosouzapicinini&show_icons=true&locale=en&layout=compact" alt="brunosouzapicinini" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunosouzapicinini&show_icons=true&locale=en" alt="brunosouzapicinini" /></p>
+</div>
